@@ -7,3 +7,5 @@ and all my bash script questions are answered or the code is automatically gener
 I'm going to update the code so that it includes popular programming languages and can help anyone write programs and learn to write any type of script they need with the help of AI and never leave the command line, run the code and debug the code. 
 
 I'm going to add some more features like automatically check what error codes mean and how to debug the code using AI, get suggestions to improve code and how to clean up code to make it easier to read 
+
+It works but I need to debug this copy of the code so that it runs correctly. I copied and pasted it and it gets an error I just got to update code. 
